@@ -1,0 +1,14 @@
+dist.rvs
+ddof=1
+pylab.rcParams
+plt.rcParams.update
+
+fig, axs = plt.subplots(2,2)
+picture = axs[i // 2][i % 2]
+
+np.arange
+
+https://docs.python.org/3/library/enum.html
+
+
+
